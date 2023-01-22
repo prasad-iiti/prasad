@@ -24,22 +24,22 @@ He is currently pursuing a Ph.D. from the Department of Computer Science and Eng
 His research interests include image processing, computer vision, machine learning and deep learning.
   
 <h3>Experience:</h3>
-- Assistant Professor, <a href="https://www.sggs.ac.in" target="_blank">SGGSIE&T, Nanded</a>, [Aug 2016-Present]
-- Assistant Professor, <a href="https://www.ges-coengg.org" target="_blank">G.E.S. R. H. Sapat College of Engineering</a>, [July 2012-Aug 2016]
-- Lecturer, <a href="https://www.gphingoli.ac.in" target="_blank">G. P. Hingoli</a>, [Sept 2009 - Sept 2010]
+1. Assistant Professor, <a href="https://www.sggs.ac.in" target="_blank">SGGSIE&T, Nanded</a>, [Aug 2016-Present]
+2. Assistant Professor, <a href="https://www.ges-coengg.org" target="_blank">G.E.S. R. H. Sapat College of Engineering</a>, [July 2012-Aug 2016]
+3. Lecturer, <a href="https://www.gphingoli.ac.in" target="_blank">G. P. Hingoli</a>, [Sept 2009 - Sept 2010]
 
 <h3>Education:</h3>
-- M.E.(Computer Science & Engineering), 2012, <a href="https://www.geca.ac.in/" target="_blank">Government Engineering College, Aurangabad</a>
-- B.Tech.(Computer Science & Engineering), 2009, <a href="https://sggs.ac.in" target="_blank">SGGSIE&T, Nanded</a>
+1. M.E.(Computer Science & Engineering), 2012, <a href="https://www.geca.ac.in/" target="_blank">Government Engineering College, Aurangabad</a>
+2. B.Tech.(Computer Science & Engineering), 2009, <a href="https://sggs.ac.in" target="_blank">SGGSIE&T, Nanded</a>
 
 
 <h3>Membership:</h3>
-- Member of IEEE (Membership No : 97161500)
-- Life member Indian Society for Technical Education (ISTE), New Delhi, (Membership No : LM68294)
+1. Member of IEEE (Membership No : 97161500)
+2. Life member Indian Society for Technical Education (ISTE), New Delhi, (Membership No : LM68294)
 </ol>    
 
 <h3>Links:</h3>
-<a href="[https://prasad-iiti.github.io/ppkanhegaonkar.pdf](https://github.com/prasad-iiti/prasad/blob/cd5720e55f581ab575b5912e201e106e4833b5e7/ppkanhegaonkar.pdf)" target="_blank">Resume</a> &emsp; | &emsp;
+<a href="https://github.com/prasad-iiti/prasad/blob/cd5720e55f581ab575b5912e201e106e4833b5e7/ppkanhegaonkar.pdf" target="_blank">Resume</a> &emsp; | &emsp;
 <a href="https://www.linkedin.com/in/prasadkanhegaonkar/" target="_blank">LinkedIn</a> &emsp; | &emsp;
 <a href="https://github.com/prasad-iiti/" target="_blank">GitHub</a> &emsp; | &emsp;
 <a href="https://scholar.google.co.in/citations?user=Yx3LIi0AAAAJ&hl=en" target="_blank">Google Scholar</a> &emsp; | &emsp;
