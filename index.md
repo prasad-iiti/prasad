@@ -1,6 +1,5 @@
-| <img src="ppk.jpg" width="200" height="200"></img> | Prasad Kanhegaonkar   <br>PhD Student, Pattern Analysis and Machine Intelligence Lab, <br>Computer Science and Engineering Department, <br>Indian Institute of Technology Indore, <br>Khandwa Road, Simrol, Indore - 452020, MP, India |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
+| <img src="ppk.jpg" width="200" height="200"></img> 	| Prasad Kanhegaonkar   <br>PhD Student, Pattern Analysis and Machine Intelligence Lab, <br>Computer Science and Engineering Department, <br>Indian Institute of Technology Indore, <br>Khandwa Road, Simrol, Indore - 452020, MP, India 	|
+|---	|---	|
 
 ----
 
