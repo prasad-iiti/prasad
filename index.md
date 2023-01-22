@@ -39,7 +39,7 @@ His research interests include image processing, computer vision, machine learni
 </ol>    
 
 <h3>Links:</h3>
-<a href="https://prasad-iiti.github.io/ppkanhegaonkar.pdf" target="_blank">Resume</a> &emsp; | &emsp;
+<a href="[https://prasad-iiti.github.io/ppkanhegaonkar.pdf](https://github.com/prasad-iiti/prasad/blob/cd5720e55f581ab575b5912e201e106e4833b5e7/ppkanhegaonkar.pdf)" target="_blank">Resume</a> &emsp; | &emsp;
 <a href="https://www.linkedin.com/in/prasadkanhegaonkar/" target="_blank">LinkedIn</a> &emsp; | &emsp;
 <a href="https://github.com/prasad-iiti/" target="_blank">GitHub</a> &emsp; | &emsp;
 <a href="https://scholar.google.co.in/citations?user=Yx3LIi0AAAAJ&hl=en" target="_blank">Google Scholar</a> &emsp; | &emsp;
