@@ -1,17 +1,11 @@
-<body>
-  <table>
-    <tr>
-      <td width="250px"><img src="ppk.jpg" width="200" height="200"></img></td>   
-      <td valign="top">
-        <h1>Prasad Kanhegaonkar</h1>
-        PhD Student, Pattern Analysis and Machine Intelligence Lab, <br>
-        Computer Science and Engineering Department, <br>
-        Indian Institute of Technology Indore, <br>
-        Khandwa Road, Simrol, Indore - 452020, MP, India
-      </td>         
-    </tr>
-  </table>
-  <hr>  
+| <img src="ppk.jpg" width="200" height="200"></img>  | Prasad Kanhegaonkar, PhD Student, Pattern Analysis and Machine Intelligence Lab, Computer Science and Engineering Department, Indian Institute of Technology Indore, Khandwa Road, Simrol, Indore - 452020, MP, India  |
+|---|---|
+
+----
+
+
+
+  
 
   <h4>
   <a href="https://github.com/prasad-iiti/prasad-iiti.github.io.git/1.research.html">Research</a> &emsp; | &emsp;
@@ -21,7 +15,8 @@
   <a href="https://github.com/prasad-iiti/prasad-iiti.github.io/blob/main/5.students.html">Students</a> &emsp; | &emsp;
   <a href="https://github.com/prasad-iiti/prasad-iiti.github.io/blob/main/6.miscellaneous.html">Miscellaneous</a>
   </h4>
-  <hr>
+  
+  ----
 
   <h3>Brief Bio:</h3>
   Prasad Kanhegaonkar received his B.Tech. and ME degrees in Computer Science and Engineering from Shri Guru Gobind Singhji Institute of Engineering 
