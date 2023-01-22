@@ -4,6 +4,7 @@
 ----
 
 <h4>
+<a href="index.md">Home</a> &emsp; | &emsp;
 <a href="1.research.md">Research</a> &emsp; | &emsp;
 <a href="2.publications.md">Publications</a> &emsp; | &emsp;
 <a href="3.teaching.md">Teaching</a> &emsp; | &emsp;
@@ -23,22 +24,18 @@ He is currently pursuing a Ph.D. from the Department of Computer Science and Eng
 His research interests include image processing, computer vision, machine learning and deep learning.
   
 <h3>Experience:</h3>
-<ol>
-  <li>Lecturer, <a href="https://www.gphingoli.ac.in" target="_blank">G. P. Hingoli</a>, [Sept 2009 - Sept 2010]</li>
-  <li>Assistant Professor, <a href="https://www.ges-coengg.org" target="_blank">G.E.S. R. H. Sapat College of Engineering</a>, [July 2012-Aug 2016]</li>
-  <li>Assistant Professor, <a href="https://www.sggs.ac.in" target="_blank">SGGSIE&T, Nanded</a>, [Aug 2016-Present]</li>
-</ol>  
+- Assistant Professor, <a href="https://www.sggs.ac.in" target="_blank">SGGSIE&T, Nanded</a>, [Aug 2016-Present]
+- Assistant Professor, <a href="https://www.ges-coengg.org" target="_blank">G.E.S. R. H. Sapat College of Engineering</a>, [July 2012-Aug 2016]
+- Lecturer, <a href="https://www.gphingoli.ac.in" target="_blank">G. P. Hingoli</a>, [Sept 2009 - Sept 2010]
 
 <h3>Education:</h3>
-<ol>
-  <li>M.E.(Computer Science & Engineering), 2012, <a href="https://www.geca.ac.in/" target="_blank">Government Engineering College, Aurangabad</a></li>
-  <li>B.Tech.(Computer Science & Engineering), 2009, <a href="https://sggs.ac.in" target="_blank">SGGSIE&T, Nanded</a></li>
-</ol> 
+- M.E.(Computer Science & Engineering), 2012, <a href="https://www.geca.ac.in/" target="_blank">Government Engineering College, Aurangabad</a>
+- B.Tech.(Computer Science & Engineering), 2009, <a href="https://sggs.ac.in" target="_blank">SGGSIE&T, Nanded</a>
+
 
 <h3>Membership:</h3>
-<ol>
-  <li>Member of IEEE (Membership No : 97161500)</li>
-  <li>Life member Indian Society for Technical Education (ISTE), New Delhi, (Membership No : LM68294)</li>
+- Member of IEEE (Membership No : 97161500)
+- Life member Indian Society for Technical Education (ISTE), New Delhi, (Membership No : LM68294)
 </ol>    
 
 <h3>Links:</h3>
