@@ -1,10 +1,3 @@
-<!-- <!DOCTYPE html> -->
-<html lang="en">
-  
-<head>
-  <title>Prasad Kanhegaonkar</title>
-</head>
-
 <body>
   <table>
     <tr>
@@ -66,6 +59,3 @@
   <a href="https://orcid.org/0000-0003-1150-9518" target="_blank">ORCID</a> &emsp; | &emsp;
   <a href="https://www.webofscience.com/wos/author/record/3287166" target="_blank">Researcher</a> &emsp; | &emsp;
   <a href="https://vidwan.inflibnet.ac.in/profile/141384" target="_blank">Vidwan</a>
-
-</body>
-</html>
