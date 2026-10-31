@@ -99,7 +99,9 @@ Government Polytechnic Hingoli (2009 – 2010)
 
 **Tools:** NumPy, LaTeX
 
-**Core Areas:** Algorithms · Operating Systems · Parallel Computing · Digital Image Processing · Machine Learning · Computer Vision · AI System Design 
+**Core Areas:** 
+
+Algorithms · Operating Systems · Parallel Computing · Digital Image Processing · Machine Learning · Computer Vision · AI System Design 
 
 ---
 
