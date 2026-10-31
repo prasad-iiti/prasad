@@ -28,6 +28,12 @@ My work targets the design of:
 
 ---
 
+## Research Vision
+
+Develop **deployable, efficient, and clinically reliable AI systems** that translate directly into healthcare impact rather than remaining laboratory prototypes.
+
+---
+
 ## Research Interests
 
 * Computer Vision
@@ -41,7 +47,7 @@ My work targets the design of:
 ## Current Research
 
 **Ph.D. Thesis (Dec 2021 – Present)**
-**Title:** Analysis of Lesion Images for the Diagnosis of Skin Diseases
+**Title:** Deep Learning for Automated Skin Lesion Analysis: Methods and Applications
 **Supervisor:** Dr. Surya Prakash, IIT Indore
 
 **Focus Areas:**
@@ -83,11 +89,20 @@ Government Polytechnic Hingoli (2009 – 2010)
 **Frameworks:** PyTorch, Keras, Scikit-Learn
 **Tools:** NumPy, LaTeX
 **Core Areas:**
-Algorithms · Operating Systems · Parallel Computing · Digital Image Processing · Machine Learning · Computer Vision
+Algorithms · Operating Systems · Parallel Computing · Digital Image Processing · Machine Learning · Computer Vision · AI System Design 
 
 ---
 
-## Selected Publications
+## Journal Publications (Published / Accepted)
+
+1. *Robust and Equitable Skin Lesion Classification via Adaptive Feature Alignment and Structured Sparse Interleaved Learning*, IEEE Transactions on Emerging Topics in Computational Intelligence, Volume 10, Number 5, pp. 3822-3835, Oct. 2026, DOI: https://doi.org/10.1109/TETCI.2026.3692607 (Impact Factor: 6.0)
+2. *RASM: Relationship-Aware Augmentation Selection through Structural Redundancy Modeling*, Pattern Recognition Letters, 2026, ISSN 0167-8655. DOI: https://doi.org/10.1016/j.patrec.2026.10.017 (Impact Factor: 3.5)
+
+## Journal Publications (Submitted / Under Review)
+
+1. *Contrastive Representation Feedback for Fine-Grained Skin Lesion Classification*, International Journal of Imaging Systems and Technology, Wiley, [Manuscript ID: 3093981, Date of submission: 29/09/2026, Impact Factor: 3.0].
+
+## Conference Publications
 
 1. *One Shot Learning to Select Data Augmentations for Skin Lesion Classification* — CVIP 2023
 2. *Skin Lesion Classification using CNN & Transformer Networks* — SYSCOM 2022
@@ -97,8 +112,8 @@ Algorithms · Operating Systems · Parallel Computing · Digital Image Processin
 
 ## Book Chapters
 
-* **Federated Learning for Healthcare Applications**, Elsevier, 2023
-* **Secured IC/IP Design Flow**, CRC Press, 2022
+* *Federated Learning for Healthcare Applications*, Elsevier, 2023
+* *Secured IC/IP Design Flow*, CRC Press, 2022
 
 ---
 
@@ -171,9 +186,3 @@ Mentored UG/PG students and research interns in:
 
 **M.E. Thesis:** Image Steganography using Pixel Value Differencing
 **B.Tech. Project:** Neural-Network-Based Intrusion Detection System
-
----
-
-## Research Vision
-
-Develop **deployable, efficient, and clinically reliable AI systems** that translate directly into healthcare impact rather than remaining laboratory prototypes.
