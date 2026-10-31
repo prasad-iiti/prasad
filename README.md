@@ -72,8 +72,9 @@ Develop **deployable, efficient, and clinically reliable AI systems** that trans
 
 ## Earlier Academic Projects
 
-**M.E. Thesis:** Image Steganography using Pixel Value Differencing
-**B.Tech. Project:** Neural-Network-Based Intrusion Detection System
+1. **M.E. Thesis:** Image Steganography using Pixel Value Differencing
+
+2. **B.Tech. Project:** Neural-Network-Based Intrusion Detection System
 
 ---
 
