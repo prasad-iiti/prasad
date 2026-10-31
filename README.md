@@ -70,6 +70,13 @@ Develop **deployable, efficient, and clinically reliable AI systems** that trans
 
 ---
 
+## Earlier Academic Projects
+
+**M.E. Thesis:** Image Steganography using Pixel Value Differencing
+**B.Tech. Project:** Neural-Network-Based Intrusion Detection System
+
+---
+
 ## Academic Experience
 
 **Assistant Professor**
@@ -112,8 +119,8 @@ Algorithms · Operating Systems · Parallel Computing · Digital Image Processin
 
 ## Book Chapters
 
-* *Federated Learning for Healthcare Applications*, Elsevier, 2023
-* *Secured IC/IP Design Flow*, CRC Press, 2022
+1. *Federated Learning for Healthcare Applications*, Elsevier, 2023
+2. *Secured IC/IP Design Flow*, CRC Press, 2022
 
 ---
 
@@ -129,6 +136,7 @@ Courses taught include:
 * Unix System Programming
 * Bandit Algorithms (Online ML)
 * Probability & Statistics
+* Real Time Data Streaming Systems
 
 ---
 
@@ -147,6 +155,7 @@ Courses taught include:
 * Applied Intelligence (Springer)
 * Expert Systems with Applications (Elsevier)
 * Biomedical Signal Processing & Control (Elsevier)
+* Computer Methods and Programs in Biomedicine (Elsevier)
 * Sadhana (Indian Academy of Sciences)
 
 **Memberships:**
@@ -179,10 +188,3 @@ Mentored UG/PG students and research interns in:
 * Security & Cryptography
 * Deep Learning Applications
 * Pattern Recognition Systems
-
----
-
-## Earlier Academic Projects
-
-**M.E. Thesis:** Image Steganography using Pixel Value Differencing
-**B.Tech. Project:** Neural-Network-Based Intrusion Detection System
